@@ -23,10 +23,18 @@
           "symbol": "DEFI1",
           "decimals": 18,
           "logoURI": "https://sun.io/static/media/SUNLogo.178d4636.png"
-          }
+          },
+          {
+            "chainId": 3,
+            "address": "0x5455455963795041716334685467316653754243",
+            "name": "DEFI12",
+            "symbol": "DEFI12",
+            "decimals": 18,
+            "logoURI": "https://sun.io/static/media/SUNLogo.178d4636.png"
+            }
       ],
       "version": {
-        "major": 2,
+        "major": 3,
         "minor": 0,
         "patch": 0
       }
