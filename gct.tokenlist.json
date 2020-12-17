@@ -16,14 +16,6 @@
         "decimals": 8,
         "logoURI": "https://sun.io/static/media/SUNLogo.178d4636.png"
         },
-        {
-          "chainId": 2,
-          "address": "0xeda8b016efa8b1161208cf041cd86972eee0f311",
-          "name": "I HOUSE TOKEN",
-          "symbol": "IHT",
-          "decimals": 18,
-          "logoURI": "https://sun.io/static/media/SUNLogo.178d4636.png"
-          },
           {
             "chainId": 3,
             "address": "0xeda8b016efa8b1161208cf041cd86972eee0f31e",
@@ -50,7 +42,7 @@
                 }
       ],
       "version": {
-        "major": 5,
+        "major": 6,
         "minor": 0,
         "patch": 0
       }
