@@ -17,7 +17,7 @@
         "logoURI": "https://sun.io/static/media/SUNLogo.178d4636.png"
         },
         {
-          "chainId": 2,
+          "chainId": 1,
           "address": "0xeda8b016efa8b1161208cf041cd86972eee0f31e",
           "name": "I HOUSE TOKEN",
           "symbol": "IHT2",
@@ -25,7 +25,7 @@
           "logoURI": "https://sun.io/static/media/SUNLogo.178d4636.png"
         },
         {
-          "chainId": 3,
+          "chainId": 1,
           "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
           "name": "SushiToken2",
           "symbol": "SUSHI",
@@ -33,7 +33,7 @@
           "logoURI": "https://sun.io/static/media/SUNLogo.178d4636.png"
         },
         {
-          "chainId": 4,
+          "chainId": 1,
           "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F985",
           "name": "Uniswap",
           "symbol": "UNI",
@@ -41,7 +41,7 @@
           "logoURI": "https://sun.io/static/media/SUNLogo.178d4636.png"
         },
         {
-          "chainId": 5,
+          "chainId": 1,
           "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
           "name": "Uniswap",
           "symbol": "UNI",
@@ -52,7 +52,7 @@
       "version": {
         "major": 7,
         "minor": 0,
-        "patch": 0
+        "patch": 1
       }
   }
   
