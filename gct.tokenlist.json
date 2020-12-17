@@ -12,7 +12,7 @@
         "chainId": 1,
         "address": "0x1b80eeeadcc590f305945bcc258cfa770bbe1890",
         "name": "BQQQ",
-        "symbol": "BITSDAQ TOKEN",
+        "symbol": "BITSDAQTOKEN",
         "decimals": 8,
         "logoURI": "https://sun.io/static/media/SUNLogo.178d4636.png"
         },
@@ -20,7 +20,7 @@
           "chainId": 2,
           "address": "0xeda8b016efa8b1161208cf041cd86972eee0f311",
           "name": "IHT I",
-          "symbol": "HOUSE TOKEN",
+          "symbol": "HOUSETOKEN",
           "decimals": 18,
           "logoURI": "https://sun.io/static/media/SUNLogo.178d4636.png"
           },
@@ -28,7 +28,7 @@
             "chainId": 3,
             "address": "0xeda8b016efa8b1161208cf041cd86972eee0f31e",
             "name": "IHT2 I",
-            "symbol": "HOUSE TOKEN",
+            "symbol": "HOUSETOKEN",
             "decimals": 18,
             "logoURI": "https://sun.io/static/media/SUNLogo.178d4636.png"
             },
@@ -36,7 +36,7 @@
               "chainId": 4,
               "address": "0xeda8b016efa8b1161208cf041cd86972eee0f31e",
               "name": "IHT I",
-              "symbol": "HOUSE TOKEN2",
+              "symbol": "HOUSETOKEN2",
               "decimals": 18,
               "logoURI": "https://sun.io/static/media/SUNLogo.178d4636.png"
               }
